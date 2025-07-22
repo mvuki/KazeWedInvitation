@@ -166,18 +166,18 @@ img {
 }
 
 .reminder div {
-    width: max-content;
+    width: auto;
     background: #80808040;
     border: 1px solid #80808040;
-    border-radius: 16px;
+    border-radius: 12px;
     box-shadow: 0 0 10px 1px #00000040;
     backdrop-filter: blur(10px);
-    padding: 32px;
+    padding: 12px;
 }
 
 .reminder div span {
     display: block;
-    width: 100%;
+    width: 90%;
     font-size: xx-large;
     text-align: center;
 }
@@ -215,13 +215,14 @@ img {
     flex-direction: column;
 
 }
+/*
 .reminder {
     display: flex;
     flex-direction: column;
     margin: auto;
   
 }
-
+*/
 }
 @media only screen and (min-width: 1000px){
   
@@ -232,15 +233,16 @@ img {
 
 }
 
+
+
+
+
+
+}
 .reminder {
     display: flex;
     flex-direction: row;
       justify-content: space-evenly; 
    /* justify-content: space-evenly; */
-}
-
-
-
-
 }
 
