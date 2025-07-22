@@ -103,7 +103,7 @@ img {
 }
 
 .story .img-container, .wedding .img-container {
-    width: 60%;
+    width: 80%;
     border-radius: 16px;
     padding: 16px;
     box-shadow: 12.5px 12.5px 25px #42280540, -5px -5px 15px #4228051a, inset -2.5px -2.5px 7.5px #42280580;
@@ -130,7 +130,7 @@ img {
 .story .text-container p, .wedding .text-container p {
     width: 90%;
     text-align: justify;
-    margin: 20px;
+    margin: auto;
 }
 .love-story{
      align-items: center;
