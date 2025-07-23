@@ -136,6 +136,9 @@ img {
      align-items: center;
     justify-content: center;
 }
+.love-story div{
+    margin-top: 5px;
+}
 .reminder-container {
     flex-direction: column;
     background-image: linear-gradient(#28282880, transparent), url(images/9B5A3538.JPG);
